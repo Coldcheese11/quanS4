@@ -8,10 +8,14 @@ namespace Anh_Quan.models
 {
     internal class User
 <<<<<<< HEAD
+<<<<<<< HEAD
     { public int UserName { public int Email { get; set; } }
 =======
     {
         public int UserName { get; set; }
 >>>>>>> V4
+=======
+    { 
+>>>>>>> V5
     }
 }
