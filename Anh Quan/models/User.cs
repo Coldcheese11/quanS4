@@ -7,6 +7,6 @@ using System.Threading.Tasks;
 namespace Anh_Quan.models
 {
     internal class User
-    { public int UserName { public int Email { get; set; } }
+    { 
     }
 }
