@@ -8,5 +8,6 @@ namespace Anh_Quan.models
 {
     internal class User
     {
+        public int UserName { get; set; }
     }
 }
